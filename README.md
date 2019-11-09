@@ -15,6 +15,7 @@ python 2.7 or above
 #### run following commands
 
   ```sh
+$ mkdir dataset
 $ pip install -r requirements.txt
 $ python dataset01.py
 $ python train02.py
