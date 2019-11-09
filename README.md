@@ -1,5 +1,5 @@
 
-# FACE_LOCK_SYSTEM:
+# FACE LOCK SYSTEM USING PYTHON AND OPENCV:
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
