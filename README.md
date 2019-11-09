@@ -22,3 +22,5 @@ $ python train02.py
 $ python facelock03.py
 ```
 Copyright (c) 2019
+developed by arvind sisodia
+contact me on arvindsis35@gmail.com
